@@ -1,0 +1,5 @@
+paddle
+paddlex
+paddleseg
+paddlehub
+paddleclas
