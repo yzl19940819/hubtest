@@ -3,3 +3,4 @@ paddlex
 paddleseg
 paddlehub
 paddleclas
+paddledet
